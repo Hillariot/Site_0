@@ -1,0 +1,4 @@
+document.addEventListener("DOMContentLoaded", function(){ window.addEventListener("DOMContentLoaded", function(){
+	UAGBForms.init( {"block_id":"kftcxvby","reCaptchaEnable":false,"reCaptchaType":"v2","reCaptchaSiteKeyV2":"","reCaptchaSecretKeyV2":"","reCaptchaSiteKeyV3":"","reCaptchaSecretKeyV3":"","afterSubmitToEmail":"cats@miapho.ru","afterSubmitCcEmail":"","afterSubmitBccEmail":"","afterSubmitEmailSubject":"\u0424\u043e\u0440\u043c\u0430 \u043a\u043e\u043d\u0442\u0430\u043a\u0442\u0430 \u043d\u0430 \u0433\u043b\u0430\u0432\u043d\u043e\u0439 \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0435","sendAfterSubmitEmail":true,"confirmationType":"message","hidereCaptchaBatch":true,"captchaMessage":"\u0417\u0430\u043f\u043e\u043b\u043d\u0438\u0442\u0435 \u0432\u044b\u0448\u0435\u0443\u043a\u0430\u0437\u0430\u043d\u043d\u0443\u044e captcha.","confirmationUrl":""}, '.uagb-block-kftcxvby', 572 );
+});
+ });
